@@ -70,6 +70,3 @@ for i in range(len(array)):
 
     
 xls.save('test.xls')
-jiedaibao 
-mysql
-just for test
