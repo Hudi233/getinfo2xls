@@ -70,6 +70,9 @@ for i in range(len(array)):
 
     
 xls.save('test.xls')
-jdb
+
 jiedaibao
-jiupaipay
+
+100.100.100.100
+
+123456@163.com
